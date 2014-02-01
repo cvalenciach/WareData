@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<Preferencias>
+  <GestorBD>SQL</GestorBD>
+  <Host>192.168.2.196</Host>
+  <User>sa</User>
+  <Pass>sa</Pass>
+  <Puerto />
+  <BD>DAT</BD>
+</Preferencias>

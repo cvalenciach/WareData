@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<Preferencias>
+  <NomPref>Cesar</NomPref>
+  <Instancia>192.168.2.196</Instancia>
+  <Usuario>root</Usuario>
+  <Pass>2888850871</Pass>
+  <Puerto />
+  <BD>oil</BD>
+</Preferencias>
